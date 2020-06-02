@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 Jun 2020 13:33:56 at https://www.radiustheme.com/demo/html/psdboss/akkhor/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.radiustheme.com/demo/html/psdboss/akkhor/index.html -O1 "C:\Users\shubh\Music\lms3\lms3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:35:44	Warning: 	File not parsed, looks like binary: https://www.radiustheme.com/demo/html/psdboss/akkhor/webfonts/fa-brands-400.woff2
+13:35:44	Warning: 	File not parsed, looks like binary: https://www.radiustheme.com/demo/html/psdboss/akkhor/webfonts/fa-regular-400.woff2
+13:35:44	Warning: 	File not parsed, looks like binary: https://www.radiustheme.com/demo/html/psdboss/akkhor/webfonts/fa-solid-900.woff2
+13:36:18	Warning: 	File not parsed, looks like binary: https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/webfonts/fa-brands-400.woff2
+13:36:18	Error: 	"Not Found" (404) at link https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/webfonts/fa-brands-400.svg (from https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/css/all.min.css)
+13:36:19	Warning: 	File not parsed, looks like binary: https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/webfonts/fa-regular-400.woff2
+13:36:19	Error: 	"Not Found" (404) at link https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/webfonts/fa-regular-400.svg (from https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/css/all.min.css)
+13:36:19	Warning: 	File not parsed, looks like binary: https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/webfonts/fa-solid-900.woff2
+13:36:19	Error: 	"Not Found" (404) at link https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/webfonts/fa-solid-900.svg (from https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/css/all.min.css)
+13:36:19	Warning: 	File not parsed, looks like binary: https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/fonts/Flaticon.woff2
+13:36:19	Error: 	"Not Found" (404) at link https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/js/jquery.smoothscroll.min.js (from https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/student-promotion.html)
+13:36:19	Error: 	"Not Found" (404) at link https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/images/sort_both.png (from https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/css/jquery.dataTables.min.css)
+13:36:19	Error: 	"Not Found" (404) at link https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/images/sort_asc.png (from https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/css/jquery.dataTables.min.css)
+13:36:19	Error: 	"Not Found" (404) at link https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/images/sort_desc.png (from https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/css/jquery.dataTables.min.css)
+13:36:19	Error: 	"Not Found" (404) at link https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/images/sort_asc_disabled.png (from https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/css/jquery.dataTables.min.css)
+13:36:20	Error: 	"Not Found" (404) at link https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/images/sort_desc_disabled.png (from https://www.radiustheme.com/demo/html/psdboss/akkhor/akkhor/css/jquery.dataTables.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 24 seconds : 193 links scanned, 183 files written (9260025 bytes overall) [4516512 bytes received at 31364 bytes/sec], 7864277 bytes transferred using HTTP compression in 130 files, ratio 33%, 24.1 requests per connection
+(9 errors, 7 warnings, 0 messages)

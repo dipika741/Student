@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.radiustheme.com	TRUE	/	FALSE	1999999999	edd_wp_session	d40ffbba526d50ebb827da09e69768bd%7C%7C1591041839%7C%7C1591040039
+
